@@ -69,9 +69,7 @@ kvantum
 lazygit
 lftp
 lib32-pipewire
-libnvidia-container-bin
 libva-intel-driver
-libva-nvidia-driver-git
 libva-utils
 linux
 linux-firmware
@@ -99,10 +97,6 @@ networkmanager
 ngrok
 noto-fonts-emoji
 nsxiv
-nvidia-dkms
-nvidia-prime
-nvidia-settings
-nvtop
 nwg-look-bin
 oh-my-posh
 openjdk-doc
